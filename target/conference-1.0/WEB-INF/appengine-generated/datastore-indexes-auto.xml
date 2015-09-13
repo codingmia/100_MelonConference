@@ -1,0 +1,10 @@
+<!-- Indices written at Sun, 13 Sep 2015 00:04:28 CDT -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="Conference" ancestor="true" source="auto">
+        <property name="name" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
